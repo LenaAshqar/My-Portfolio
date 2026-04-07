@@ -1,6 +1,6 @@
 # 🌟 SWE 363 – Assignment 4
 
-> ✨ A responsive **personal portfolio web application** built as part of the SWE 363 course.  
+> ✨ A responsive **personal portfolio web application** built as part of the SWE 363 Web Development course.  
 > 🌗 Featuring a **dark/light theme**, time-based greetings, project filtering and sorting, simple form validation, and modern responsive design.
 
 --- 
